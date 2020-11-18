@@ -1,5 +1,5 @@
 # baseurl: "https://example.org/"
-baseurl: "https://www.mimuw.edu.pl/~wpolitarczyk/kpa70/"
+baseurl: "https://kpa70.wmi.amu.edu.pl/"
 title: "kpa70"
 canonifyurls: true
 theme: "hugo-conference"
@@ -24,8 +24,8 @@ params:
   Sections:
     - about
     # - location
-    # - speakers
-    - schedule
+    - speakers
+    #- schedule
     # - sponsors
     # - partners
     # - contact
@@ -46,9 +46,6 @@ params:
   #   text: "Register now!"
   #   link: "http://register.example.com"
 
-  # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  ForkButton:
-    repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
   # Sponsors:
@@ -67,16 +64,62 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "TBA"
-      time: "TBA"	
 
-    # - name: "Wojciech Politarczyk"
-    #   company: "Warsaw University"
-    #   # photo: "/img/speaker.jpg"
-    #   presentation:
-    #     title: "My title"
-    #     description: "My abstract"
-    #     time: "Jan 11, 9:00"
+    - name: "James F. Davis"
+      company: "Indiana University Bloomington"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Bogusław Hajduk"
+      company: "University of Warmia and Mazury"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Mikiya Masuda"
+      company: "Osaka City University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Masaharu Morimoto"
+      company: "Okayama University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Robert Oliver"
+      company: "Paris University 13"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Taras Panov"
+      company: "Lomonosov Moscow State University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Józef Przytycki"
+      company: "George Washington University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"

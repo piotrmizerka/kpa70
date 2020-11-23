@@ -65,6 +65,22 @@ params:
   # The entire schedule
   Schedule:
 
+    - name: "William Browder (*TBC)"
+      company: "Princeton University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Sylvain Capell"
+      company: "New York University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
     - name: "James F. Davis"
       company: "Indiana University Bloomington"
       #photo: "/img/speaker.jpg"
@@ -75,6 +91,14 @@ params:
 
     - name: "Bogusław Hajduk"
       company: "University of Warmia and Mazury"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+    - name: "Jarosław Kędra"
+      company: "University of Aberdeen"
       #photo: "/img/speaker.jpg"
       presentation:
          title: "TBA"
@@ -120,6 +144,16 @@ params:
          title: "TBA"
          description: "TBA"
          time: "TBA"
+
+    - name: "Toshio Sumi"
+      company: "Kyushu University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "TBA"
+
+
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"

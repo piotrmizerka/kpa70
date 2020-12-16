@@ -1,5 +1,5 @@
 # baseurl: "https://example.org/"
-baseurl: "https://www.mimuw.edu.pl/~wpolitarczyk/kpa70/"
+baseurl: "https://kpa70.wmi.amu.edu.pl/"
 title: "kpa70"
 canonifyurls: true
 theme: "hugo-conference"
@@ -10,7 +10,7 @@ params:
   # Conference info
   Name: "kpa70"
   Description: "Conference celebrating the 70th birthday of Prof. Krzysztof Pawałowski"
-  Date: "11-15 January 2020"
+  Date: "11-13 January 2021"
   Price: # "Only $100" # If your event is free, just comment this line
   Venue: "Online conference via Zoom"
   Address: # "Zoom links will be sent to registered participants."
@@ -24,7 +24,7 @@ params:
   Sections:
     - about
     # - location
-    # - speakers
+    - speakers
     - schedule
     # - sponsors
     # - partners
@@ -46,9 +46,6 @@ params:
   #   text: "Register now!"
   #   link: "http://register.example.com"
 
-  # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  ForkButton:
-    repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
   # Sponsors:
@@ -67,16 +64,104 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "TBA"
-      time: "TBA"	
 
-    # - name: "Wojciech Politarczyk"
-    #   company: "Warsaw University"
-    #   # photo: "/img/speaker.jpg"
-    #   presentation:
-    #     title: "My title"
-    #     description: "My abstract"
-    #     time: "Jan 11, 9:00"
+    - name: "William Browder"
+      company: "Princeton University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "13.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+
+    - name: "Sylvain Cappell"
+      company: "New York University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
+
+    - name: "James F. Davis"
+      company: "Indiana University Bloomington"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+
+    - name: "Bogusław Hajduk"
+      company: "University of Warmia and Mazury"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "13.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+
+    - name: "Jarosław Kędra"
+      company: "University of Aberdeen"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "13.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+
+    - name: "Mikiya Masuda"
+      company: "Osaka City University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "11.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+
+    - name: "Masaharu Morimoto"
+      company: "Okayama University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+
+    - name: "Robert Oliver"
+      company: "Paris University 13"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "11.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
+
+    - name: "Taras Panov"
+      company: "Lomonosov Moscow State University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "11.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+
+    - name: "Józef Przytycki"
+      company: "George Washington University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "11.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+
+    - name: "Toshio Sumi"
+      company: "Kyushu University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+
+
+
+    - name: "Wojciech Politarczyk/Piotr Mizerka"
+      company: "Warsaw University/Adam Mickiewicz University"
+      #photo: "/img/speaker.jpg"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "13.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"

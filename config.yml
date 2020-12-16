@@ -79,7 +79,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "12.01 (09:15-10:00 / 15:15-15:00 / 23:15-00:00)"
+         time: "12.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
 
     - name: "James F. Davis"
       company: "Indiana University Bloomington"

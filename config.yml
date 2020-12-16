@@ -71,7 +71,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "13.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+         time: "13.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
 
     - name: "Sylvain Cappell"
       company: "New York University"
@@ -79,7 +79,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "12.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
+         time: "12.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
 
     - name: "James F. Davis"
       company: "Indiana University Bloomington"
@@ -87,7 +87,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "12.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+         time: "12.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
 
     - name: "Bogusław Hajduk"
       company: "University of Warmia and Mazury"
@@ -95,7 +95,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "13.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+         time: "13.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
 
     - name: "Jarosław Kędra"
       company: "University of Aberdeen"
@@ -103,7 +103,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "13.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+         time: "13.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
 
     - name: "Mikiya Masuda"
       company: "Osaka City University"
@@ -111,7 +111,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "11.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+         time: "11.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
 
     - name: "Masaharu Morimoto"
       company: "Okayama University"
@@ -119,7 +119,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "12.01 (07:00-07:45 / 12:00-12:45 / 21:00-21:45)"
+         time: "12.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
 
     - name: "Robert Oliver"
       company: "Paris University 13"
@@ -127,7 +127,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "11.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
+         time: "11.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
 
     - name: "Taras Panov"
       company: "Lomonosov Moscow State University"
@@ -135,7 +135,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "11.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+         time: "11.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
 
     - name: "Józef Przytycki"
       company: "George Washington University"
@@ -143,7 +143,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "11.01 (10:15-11:00 / 15:15-16:00 / 00:15-01:00)"
+         time: "11.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
 
     - name: "Toshio Sumi"
       company: "Kyushu University"
@@ -151,7 +151,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "12.01 (08:00-08:45 / 13:00-13:45 / 22:00-22:45)"
+         time: "12.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
 
 
 
@@ -161,7 +161,7 @@ params:
       presentation:
          title: "TBA"
          description: "TBA"
-         time: "13.01 (09:15-10:00 / 14:15-15:00 / 23:15-00:00)"
+         time: "13.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"

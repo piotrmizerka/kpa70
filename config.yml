@@ -89,6 +89,24 @@ params:
          description: "TBA"
          time: "12.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
 
+    - name: "Bartosz Biadasiewicz"
+      company: "Adam Mickiewicz University"
+      #photo: "/img/speaker.jpg"
+      dontDisplay: "true"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (11:15-11:40 / 17:15-17:40 / 01:15-01:40)"
+
+    - name: "Łukasz Michalak"
+      company: "Adam Mickiewicz University"
+      #photo: "/img/speaker.jpg"
+      dontDisplay: "true"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "13.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
+
     - name: "Bogusław Hajduk"
       company: "University of Warmia and Mazury"
       #photo: "/img/speaker.jpg"
@@ -112,6 +130,15 @@ params:
          title: "TBA"
          description: "TBA"
          time: "11.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
+
+    - name: "Piotr Mizerka"
+      company: "Adam Mickiewicz University"
+      #photo: "/img/speaker.jpg"
+      dontDisplay: "true"
+      presentation:
+         title: "TBA"
+         description: "TBA"
+         time: "12.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
 
     - name: "Masaharu Morimoto"
       company: "Okayama University"
@@ -155,9 +182,10 @@ params:
 
 
 
-    - name: "Wojciech Politarczyk/Piotr Mizerka"
-      company: "Warsaw University/Adam Mickiewicz University"
+    - name: "Marek Kaluba/Wojciech Politarczyk"
+      company: "Technische Universität Berlin/Warsaw University"
       #photo: "/img/speaker.jpg"
+      dontDisplay: "true"
       presentation:
          title: "TBA"
          description: "TBA"

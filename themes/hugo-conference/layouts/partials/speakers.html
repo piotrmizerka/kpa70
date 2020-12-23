@@ -1,7 +1,7 @@
 <h2 class="section-title">{{ .titles.speakers }}</h2>
 
 <ul class="speakers-list">
-{{ range $speaker := (where .schedule "name" "ne" "Wojciech Politarczyk/Piotr Mizerka")  }}
+{{ range $speaker := (where .schedule "dontDisplay" "ne" "true")  }}
 
 <h4 style="font-size:20px !important;">{{ .name }} ({{ .company }})</h4>
 

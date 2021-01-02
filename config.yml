@@ -29,6 +29,7 @@ params:
     # - sponsors
     # - partners
     # - contact
+    - recordings
 
   # Titles which you can translate to other languages
   Titles:
@@ -39,6 +40,7 @@ params:
     sponsors: "Sponsors"
     partners: "Partners"
     contact: "Contact"
+    recordings: "Recorded talks"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -72,6 +74,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "13.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
+      recording: "empty"
 
     - name: "Sylvain Cappell"
       company: "New York University"
@@ -80,6 +83,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
+      recording: "empty"
 
     - name: "James F. Davis"
       company: "Indiana University Bloomington"
@@ -88,6 +92,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
+      recording: "empty"
 
     - name: "Bartosz Biadasiewicz"
       company: "Adam Mickiewicz University"
@@ -97,6 +102,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (11:15-11:40 / 17:15-17:40 / 01:15-01:40)"
+      recording: "empty"
 
     - name: "Łukasz Michalak"
       company: "Adam Mickiewicz University"
@@ -106,6 +112,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "13.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
+      recording: "empty"
 
     - name: "Bogusław Hajduk"
       company: "University of Warmia and Mazury"
@@ -114,6 +121,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "13.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
+      recording: "empty"
 
     - name: "Jarosław Kędra"
       company: "University of Aberdeen"
@@ -122,6 +130,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "13.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
+      recording: "empty"
 
     - name: "Mikiya Masuda"
       company: "Osaka City University"
@@ -130,6 +139,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "11.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
+      recording: "empty"
 
     - name: "Piotr Mizerka"
       company: "Adam Mickiewicz University"
@@ -139,6 +149,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
+      recording: "empty"
 
     - name: "Masaharu Morimoto"
       company: "Okayama University"
@@ -147,6 +158,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
+      recording: "empty"
 
     - name: "Robert Oliver"
       company: "Paris University 13"
@@ -155,6 +167,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "11.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
+      recording: "empty"
 
     - name: "Taras Panov"
       company: "Lomonosov Moscow State University"
@@ -163,6 +176,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "11.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
+      recording: "empty"
 
     - name: "Józef Przytycki"
       company: "George Washington University"
@@ -171,6 +185,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "11.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
+      recording: "empty"
 
     - name: "Toshio Sumi"
       company: "Kyushu University"
@@ -179,6 +194,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "12.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
+      recording: "empty"
 
 
 
@@ -190,6 +206,7 @@ params:
          title: "TBA"
          description: "TBA"
          time: "13.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
+      recording: "empty"
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"

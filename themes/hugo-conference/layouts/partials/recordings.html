@@ -1,0 +1,9 @@
+<h2 class="section-title">{{ .titles.recordings }}</h2>
+
+<ul class="speakers-list">
+{{ range $speaker := (where .schedule "recording" "ne" "empty")  }}
+
+<h4 style="font-size:20px !important;">"{{ .presentation.title }}", {{ .name }}, <a href="{{ .recording }}" target = "_blank" >video</a></h4>
+
+{{ end }}
+</ul>

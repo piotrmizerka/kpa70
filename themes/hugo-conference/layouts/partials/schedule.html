@@ -24,7 +24,7 @@
               <b>{{ .presentation.title }}</b>, {{ .name }}
               <span class="speakers-company">{{ .company }}</span>
             </td>
-            <td class="schedule-description">{{ .presentation.description }}</td>
+            <td class="schedule-description"><a href="{{ .presentation.description }}" target = "_blank" style="font-size: 18px;">pdf</a></td>
           </tr>
         {{ else }}
           <tr class="schedule-other">

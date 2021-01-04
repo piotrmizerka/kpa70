@@ -6,7 +6,7 @@
       <tr>
         <th class="schedule-time">Time (Washington/Warsaw/Tokyo)</th>
         <th class="schedule-slot">Title and speaker</th>
-        <th class="schedule-description">Abstract</th>
+        <th class="schedule-description">Talk</th>
       </tr>
     </thead>
     <tbody>
@@ -24,7 +24,7 @@
               <b>{{ .presentation.title }}</b>, {{ .name }}
               <span class="speakers-company">{{ .company }}</span>
             </td>
-            <td class="schedule-description"><a href="{{ .presentation.description }}" target = "_blank" style="font-size: 18px;">pdf</a></td>
+            <td class="schedule-description"><a href="{{ .presentation.description }}" target = "_blank" style="font-size: 18px;">abstract</a>{{ if ne .recording "empty" }}, <a href="{{ .recording }}" target = "_blank" style="font-size: 18px;">video</a>{{ end }}</td>
           </tr>
         {{ else }}
           <tr class="schedule-other">

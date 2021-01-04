@@ -29,7 +29,7 @@ params:
     # - sponsors
     # - partners
     # - contact
-    - recordings
+    # - recordings
 
   # Titles which you can translate to other languages
   Titles:
@@ -136,8 +136,8 @@ params:
       company: "Osaka City University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Invariants of the cohomology rings of the permutohedral varieties"
+         description: "../abstracts/Masuda_abstract.pdf"
          time: "11.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
       recording: "empty"
 
@@ -164,8 +164,8 @@ params:
       company: "Paris University 13"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "The loop space homology of a small category"
+         description: "../abstracts/Oliver_abstract.pdf"
          time: "11.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
       recording: "empty"
 
@@ -173,8 +173,8 @@ params:
       company: "Lomonosov Moscow State University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Holomorphic foliations and complex moment-angle manifolds"
+         description: "../abstracts/Panov_abstract.pdf"
          time: "11.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
       recording: "empty"
 
@@ -191,8 +191,8 @@ params:
       company: "Kyushu University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Smith Problem and Laitinen's Conjecture"
+         description: "../abstracts/Sumi_abstract.pdf"
          time: "12.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
       recording: "empty"
 

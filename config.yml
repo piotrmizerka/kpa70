@@ -71,8 +71,8 @@ params:
       company: "Princeton University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Compact group actions and algebraic topology"
+         description: "./abstracts/Browder_abstract.pdf"
          time: "13.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
       recording: "empty"
 
@@ -80,8 +80,8 @@ params:
       company: "New York University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Fixed points of G-CW-complex with prescribed homotopy type"
+         description: "./abstracts/Cappell_abstract.pdf"
          time: "12.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
       recording: "empty"
 
@@ -89,8 +89,8 @@ params:
       company: "Indiana University Bloomington"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "The Borel Conjecture and aspherical 4-manifolds"
+         description: "./abstracts/Davis_abstract.pdf"
          time: "12.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
       recording: "empty"
 
@@ -99,18 +99,18 @@ params:
       #photo: "/img/speaker.jpg"
       dontDisplay: "true"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Local normality of infravacuum representations"
+         description: "./abstracts/Biadasiewicz_abstract.pdf"
          time: "12.01 (11:15-11:40 / 17:15-17:40 / 01:15-01:40)"
       recording: "empty"
 
-    - name: "Łukasz Michalak"
+    - name: "Łukasz P. Michalak"
       company: "Adam Mickiewicz University"
       #photo: "/img/speaker.jpg"
       dontDisplay: "true"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Framed cobordism and classification of free quotients"
+         description: "./abstracts/Michalak_abstract.pdf"
          time: "13.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
       recording: "empty"
 
@@ -118,8 +118,8 @@ params:
       company: "University of Warmia and Mazury"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Fixed point sets of symplectic actions on disks"
+         description: "./abstracts/Hajduk_abstract.pdf"
          time: "13.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
       recording: "empty"
 
@@ -127,8 +127,8 @@ params:
       company: "University of Aberdeen"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "On generation of arithmetic groups by conjugacy classes"
+         description: "./abstracts/Kedra_abstract.pdf"
          time: "13.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
       recording: "empty"
 
@@ -137,7 +137,7 @@ params:
       #photo: "/img/speaker.jpg"
       presentation:
          title: "Invariants of the cohomology rings of the permutohedral varieties"
-         description: "../abstracts/Masuda_abstract.pdf"
+         description: "./abstracts/Masuda_abstract.pdf"
          time: "11.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
       recording: "empty"
 
@@ -146,8 +146,8 @@ params:
       #photo: "/img/speaker.jpg"
       dontDisplay: "true"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "New results on one and two fixed point actions on spheres"
+         description: "./abstracts/Mizerka_abstract.pdf"
          time: "12.01 (06:20-06:45 / 12:20-12:45 / 20:20-20:45)"
       recording: "empty"
 
@@ -155,8 +155,8 @@ params:
       company: "Okayama University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Equivariant Surgery and Dimension Conditions"
+         description: "./abstracts/Morimoto_abstract.pdf"
          time: "12.01 (07:00-07:45 / 13:00-13:45 / 21:00-21:45)"
       recording: "empty"
 
@@ -165,7 +165,7 @@ params:
       #photo: "/img/speaker.jpg"
       presentation:
          title: "The loop space homology of a small category"
-         description: "../abstracts/Oliver_abstract.pdf"
+         description: "./abstracts/Oliver_abstract.pdf"
          time: "11.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
       recording: "empty"
 
@@ -174,16 +174,16 @@ params:
       #photo: "/img/speaker.jpg"
       presentation:
          title: "Holomorphic foliations and complex moment-angle manifolds"
-         description: "../abstracts/Panov_abstract.pdf"
+         description: "./abstracts/Panov_abstract.pdf"
          time: "11.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
       recording: "empty"
 
-    - name: "Józef Przytycki"
+    - name: "Józef H. Przytycki"
       company: "George Washington University"
       #photo: "/img/speaker.jpg"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Adventures of knot theorist: from Fox 3-colorings to Yang-Baxter homology - 5 years after Poznań talks"
+         description: "./abstracts/Przytycki_abstract.pdf"
          time: "11.01 (10:15-11:00 / 16:15-17:00 / 00:15-01:00)"
       recording: "empty"
 
@@ -192,7 +192,7 @@ params:
       #photo: "/img/speaker.jpg"
       presentation:
          title: "Smith Problem and Laitinen's Conjecture"
-         description: "../abstracts/Sumi_abstract.pdf"
+         description: "./abstracts/Sumi_abstract.pdf"
          time: "12.01 (08:00-08:45 / 14:00-14:45 / 22:00-22:45)"
       recording: "empty"
 
@@ -203,8 +203,8 @@ params:
       #photo: "/img/speaker.jpg"
       dontDisplay: "true"
       presentation:
-         title: "TBA"
-         description: "TBA"
+         title: "Small hyperbolic groups with property (T)/Equivariant Khovanov homotopy type"
+         description: "./abstracts/Kaluba_Politarczyk_abstract.pdf"
          time: "13.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
       recording: "empty"
 

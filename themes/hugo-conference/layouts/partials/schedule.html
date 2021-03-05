@@ -24,7 +24,9 @@
               <b>{{ .presentation.title }}</b>, {{ .name }}
               <span class="speakers-company">{{ .company }}</span>
             </td>
-            <td class="schedule-description"><a href="{{ .presentation.description }}" target = "_blank" style="font-size: 18px;">abstract</a>{{ if ne .recording "empty" }}, <a href="{{ .recording }}" target = "_blank" style="font-size: 18px;">video</a>{{ end }}</td>
+            <td class="schedule-description"><a href="{{ .presentation.description }}" target = "_blank" style="font-size: 18px;">abstract</a>
+              {{ if ne .presentationFile "empty" }}<br> <a href="{{ .presentationFile }}" onclick="return ValidatePassword();" target = "_blank" style="font-size: 18px;">presentation</a>{{ end }}
+              {{ if ne .recording "empty" }}<br> <a href="{{ .recording }}" onclick="return ValidatePassword();" target = "_blank" style="font-size: 18px;">video</a>{{ end }}</td>
           </tr>
         {{ else }}
           <tr class="schedule-other">
@@ -72,6 +74,16 @@
       switching = true;
     }
   }
+}
+// https://stackoverflow.com/questions/42897560/prompt-the-user-to-enter-a-password-on-hyperlink, first answer
+function ValidatePassword() {
+
+  var password = prompt("Please enter password to proceed", "");
+
+  if (password == "change it") {
+    return true;
+  }
+  return false;
 }
 sortTable();
 </script>

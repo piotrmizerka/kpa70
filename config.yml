@@ -23,13 +23,12 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    # - location
+    #- slidesTalks
     - speakers
     - schedule
     # - sponsors
     # - partners
     # - contact
-    # - recordings
 
   # Titles which you can translate to other languages
   Titles:
@@ -40,7 +39,6 @@ params:
     sponsors: "Sponsors"
     partners: "Partners"
     contact: "Contact"
-    recordings: "Recorded talks"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -219,8 +217,8 @@ params:
          title: "Small hyperbolic groups with property (T)/Equivariant Khovanov homotopy type"
          description: "./abstracts/Kaluba_Politarczyk_abstract.pdf"
          time: "13.01 (09:15-10:00 / 15:15-16:00 / 23:15-00:00)"
-      recording: "emptyy"
-      presentationFile: "emptyy"
+      recording: "empty"
+      presentationFile: "empty"
 
     # - name: "Check-in / Breakfast"
     #   time: "9h00"
